@@ -1,0 +1,61 @@
+Last login: Sun May 28 19:59:00 on ttys011
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Ankits-MacBook-Air:Assignment 4 ankit$ ./1 
+Enter the number of requests: 10
+Choose 1 for random generation
+Choose 2 if you want to input cylinder numbers
+ 1
+
+
+Cylinder values are generated randomly
+
+First Come-First Serve Disk Arm Scheduling Algorithm
+
+Reading track 08	distance moved 42
+Reading track 53	distance moved 45
+Reading track 96	distance moved 43
+Reading track 47	distance moved 49
+Reading track 20	distance moved 27
+Reading track 49	distance moved 29
+Reading track 47	distance moved 02
+Reading track 61	distance moved 14
+Reading track 05	distance moved 56
+Reading track 92	distance moved 87
+
+FCFS Total distance: 394
+
+Shortest Seek First Disk Arm Scheduling Algorithm
+
+Reading track 49	distance moved 01
+Reading track 47	distance moved 02
+Reading track 47	distance moved 00
+Reading track 53	distance moved 06
+Reading track 61	distance moved 08
+Reading track 92	distance moved 31
+Reading track 96	distance moved 04
+Reading track 20	distance moved 76
+Reading track 08	distance moved 12
+Reading track 05	distance moved 03
+
+SSF Total distance: 143
+
+Elevator (LOOK) Disk Arm Scheduling Algorithm
+
+Reading track 49	distance moved 01
+Reading track 47	distance moved 02
+Reading track 47	distance moved 00
+Reading track 20	distance moved 27
+Reading track 08	distance moved 12
+Reading track 05	distance moved 03
+Reading track 00	distance moved 05
+Reading track 53	distance moved 53
+Reading track 61	distance moved 08
+Reading track 92	distance moved 31
+Reading track 96	distance moved 04
+
+LOOK Total distance: 146
+
+
